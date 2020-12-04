@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## R for Actuaries
 
-You can use the [editor on GitHub](https://github.com/dtudorg/rforactuaries/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a website for actuaries or students who want to learn about R, but don't have a background in coding or computer programming.There are lots of things about using R that are very different to everyday Excel work!
 
 ### Markdown
 
